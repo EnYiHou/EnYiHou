@@ -20,7 +20,7 @@ I study model-based reinforcement learning, world models, and robot learning, wi
 | Project | Signal |
 |---|---|
 | [RoboPianist Cost-Aware Intervention](https://github.com/EnYiHou/robopianist-cost-aware-intervention) | Research pipeline for deciding when teacher intervention is worth its cost. Includes a paper, reproducible scripts, benchmark construction, model training, and evaluation over 14,464 proxy-error rows. |
-| [McLecture](https://github.com/EnYiHou/mcgill-lecture-downloader) | Chrome MV3 extension for downloading McGill lecture recordings. Built with TypeScript, React, Vite, ESLint, Vitest, and a Chrome Web Store release flow. |
+| [McLecture](https://github.com/EnYiHou/mcgill-lecture-downloader) | Chrome MV3 extension for downloading McGill lecture recordings. Built with TypeScript, React, Vite, ESLint, Vitest, and a published Chrome Web Store flow. |
 
 ## Current Direction
 
@@ -28,7 +28,7 @@ I am especially interested in world models for agents: systems that build useful
 
 ## Technical Stack
 
-`Python` · `JAX/Flax` · `MuJoCo` · `RoboPianist` · `pandas` · `scikit-learn`  
+`Python` · `PyTorch` · `JAX/Flax` · `MuJoCo` · `RoboPianist` · `pandas` · `scikit-learn`  
 `TypeScript` · `React` · `Vite` · `Chrome Extensions` · `Vitest` · `ESLint`
 
 ## Research & Portfolio
