@@ -1,8 +1,9 @@
 <h1 align="center">En Yi Hou</h1>
 
 <p align="center">
-  <strong>Machine learning / reinforcement learning researcher-builder</strong><br>
-  world models, planning, robot learning, and the occasional useful browser thing
+  <strong>McGill CS graduate · upcoming Tsinghua graduate student</strong><br>
+  Thinking about ML stuffs: world models, RL, etc.
+  But occasionally making browsers thinggies :3
 </p>
 
 <p align="center">
@@ -18,9 +19,7 @@
 <p align="center">
   <code>world models</code>
   <code>model-based RL</code>
-  <code>planning</code>
-  <code>robot learning</code>
-  <code>reproducible ML</code>
+  <code>Representation</code>
 </p>
 
 ---
