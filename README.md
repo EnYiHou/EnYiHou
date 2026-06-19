@@ -1,14 +1,10 @@
 # En Yi Hou
 
-<img align="right" src="./assets/en-yi-hou-portrait.jpg" width="180" alt="Portrait of En Yi Hou">
-
 **Machine learning and reinforcement learning researcher**<br>McGill CS graduate · incoming graduate student in Advanced Computing
 
 I work on model-based reinforcement learning, world models, and robot learning. I like agents that do more than autocomplete reality: systems that learn internal models, predict consequences, and decide when action is worth its cost.
 
 [Portfolio](https://portfolio.enyihou.me) · [CV](https://portfolio.enyihou.me/cv/en-yi-hou-cv.pdf) · [LinkedIn](https://www.linkedin.com/in/enyi-hou/) · [Email](mailto:enyi.hou@gmail.com)
-
-<br clear="right">
 
 ---
 
