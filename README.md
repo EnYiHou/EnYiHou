@@ -1,6 +1,4 @@
-<p align="right">
-  <img src="https://portfolio.enyihou.me/assets/profile/en-yi-hou-portrait.png" width="210" alt="Portrait of En Yi Hou">
-</p>
+<img align="right" src="https://portfolio.enyihou.me/assets/profile/en-yi-hou-portrait.png" width="180" alt="Portrait of En Yi Hou">
 
 # En Yi Hou
 
