@@ -1,59 +1,118 @@
-# En Yi Hou
+<h1 align="center">En Yi Hou</h1>
 
-**Machine learning & reinforcement learning researcher-builder**  
-McGill CS graduate · incoming graduate student in Advanced Computing at Tsinghua University
+<p align="center">
+  <strong>Machine learning / reinforcement learning researcher-builder</strong><br>
+  world models, planning, robot learning, and the occasional useful browser thing
+</p>
 
-I work on model-based AI: world models, planning, reinforcement learning, and robot learning. I like systems that learn an internal model of their environment, use it to reason about consequences, and know when an action is worth its cost.
+<p align="center">
+  <a href="https://portfolio.enyihou.me">Portfolio</a>
+  ·
+  <a href="https://portfolio.enyihou.me/cv/en-yi-hou-cv.pdf">CV</a>
+  ·
+  <a href="https://www.linkedin.com/in/enyi-hou/">LinkedIn</a>
+  ·
+  <a href="mailto:enyi.hou@gmail.com">Email</a>
+</p>
 
-[Portfolio](https://portfolio.enyihou.me) · [CV](https://portfolio.enyihou.me/cv/en-yi-hou-cv.pdf) · [LinkedIn](https://www.linkedin.com/in/enyi-hou/) · [Email](mailto:enyi.hou@gmail.com)
+<p align="center">
+  <code>world models</code>
+  <code>model-based RL</code>
+  <code>planning</code>
+  <code>robot learning</code>
+  <code>reproducible ML</code>
+</p>
 
 ---
 
-## Current Direction
+I like agents that learn an internal model of the world, reason with it, and know when an action is worth its cost. Most of my work lives around model-based AI, embodied decision-making, and research code that other people can actually run.
 
-`model-based RL` · `world models` · `planning` · `robot learning` · `cost-aware intervention` · `reproducible ML`
+```mermaid
+flowchart LR
+  W["world model"] --> P["planning"]
+  P --> A["action"]
+  A --> E["environment"]
+  E --> W
+  T["teacher / signal"] -.->|when is help worth it?| P
 
-Right now I am focused on embodied decision-making and intervention policies: how agents can learn from teachers, when a teacher should step in, and how to make that tradeoff measurable instead of implicit.
+  style W fill:#0f172a,stroke:#38bdf8,color:#ffffff
+  style P fill:#134e4a,stroke:#2dd4bf,color:#ffffff
+  style A fill:#4c1d95,stroke:#a78bfa,color:#ffffff
+  style E fill:#1f2937,stroke:#94a3b8,color:#ffffff
+  style T fill:#7c2d12,stroke:#fb923c,color:#ffffff
+```
 
-I am also interested in the engineering layer around research: clean benchmarks, runnable pipelines, readable experiment code, and tools that make real workflows less annoying.
+## Selected Work
 
-## Featured Work
+<table>
+  <tr>
+    <td width="52%">
+      <a href="https://github.com/EnYiHou/robopianist-cost-aware-intervention">
+        <img src="https://raw.githubusercontent.com/EnYiHou/robopianist-cost-aware-intervention/main/figures/cost_adjusted_evaluation.png" alt="Cost-adjusted evaluation summary for RoboPianist intervention models">
+      </a>
+    </td>
+    <td width="48%">
+      <h3>
+        <a href="https://github.com/EnYiHou/robopianist-cost-aware-intervention">Cost-Aware Teacher-Side Intervention in RoboPianist</a>
+      </h3>
+      <p><sub>Research artifact · Python · PyTorch · JAX/Flax · MuJoCo · RoboPianist</sub></p>
+      <p>A reproducible pipeline for asking a practical question: when is teacher intervention actually worth paying for?</p>
+      <ul>
+        <li>Built a 14,464-row Human-Like Proxy Error benchmark from curated RoboPianist checkpoints.</li>
+        <li>Compared learned intervention models against budgeted and cost-aware baselines.</li>
+        <li>Packaged paper, figures, scripts, and an end-to-end run path.</li>
+      </ul>
+      <p>
+        <a href="https://github.com/EnYiHou/robopianist-cost-aware-intervention/blob/main/report.pdf">Paper</a>
+        ·
+        <a href="https://github.com/EnYiHou/robopianist-cost-aware-intervention">Code</a>
+        ·
+        <a href="https://github.com/EnYiHou/robopianist-cost-aware-intervention/tree/main/figures">Figures</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-### [Cost-Aware Teacher-Side Intervention in RoboPianist](https://github.com/EnYiHou/robopianist-cost-aware-intervention)
-
-<sub>Research artifact · Python · PyTorch · JAX/Flax · MuJoCo · RoboPianist</sub>
-
-A reproducible pipeline for studying when teacher intervention is worth paying for in a high-dimensional robot-control task.
-
-- Built a 14,464-row Human-Like Proxy Error benchmark from curated RoboPianist checkpoints.
-- Compared learned intervention models with budgeted and cost-aware baselines.
-- Packaged the work with paper source/PDF, figures, scripts, and an end-to-end run path.
-
-[Paper](https://github.com/EnYiHou/robopianist-cost-aware-intervention/blob/main/report.pdf) · [Code](https://github.com/EnYiHou/robopianist-cost-aware-intervention) · [Figures](https://github.com/EnYiHou/robopianist-cost-aware-intervention/tree/main/figures)
-
-### [McLecture](https://github.com/EnYiHou/mclecture)
-
-<sub>Shipped tool · TypeScript · React · Vite · Chrome MV3 · FFmpeg/WASM</sub>
-
-A Chrome Web Store extension that helps McGill students save myCourses lecture recordings locally as MP4 files.
-
-- Built recording discovery, multi-select download queues, quality choices, and browser-local state.
-- Uses bundled FFmpeg assets for local remuxing and avoids remote analytics or third-party course-data services.
-- Maintained with TypeScript, ESLint/Prettier, Vitest, Vite, and Playwright screenshot automation.
-
-[Chrome Web Store](https://chromewebstore.google.com/detail/mclecture/ipnhkfogmlokecmpgjhdkkibomgbjmlb) · [Code](https://github.com/EnYiHou/mclecture)
+<table>
+  <tr>
+    <td width="48%">
+      <h3>
+        <a href="https://github.com/EnYiHou/mclecture">McLecture</a>
+      </h3>
+      <p><sub>Shipped tool · TypeScript · React · Vite · Chrome MV3 · FFmpeg/WASM</sub></p>
+      <p>A Chrome extension that helps McGill students save myCourses lecture recordings locally as MP4 files.</p>
+      <ul>
+        <li>Built recording discovery, quality selection, multi-download queues, and browser-local state.</li>
+        <li>Uses bundled FFmpeg assets for local remuxing; no remote analytics or course-data services.</li>
+        <li>Maintained with TypeScript, Vitest, Vite, and Playwright screenshot automation.</li>
+      </ul>
+      <p>
+        <a href="https://chromewebstore.google.com/detail/mclecture/ipnhkfogmlokecmpgjhdkkibomgbjmlb">Chrome Web Store</a>
+        ·
+        <a href="https://github.com/EnYiHou/mclecture">Code</a>
+      </p>
+    </td>
+    <td width="52%">
+      <a href="https://github.com/EnYiHou/mclecture">
+        <img src="https://raw.githubusercontent.com/EnYiHou/mclecture/main/screenshots/popup.png" width="49%" alt="McLecture course recording selection view">
+      </a>
+      <a href="https://github.com/EnYiHou/mclecture">
+        <img src="https://raw.githubusercontent.com/EnYiHou/mclecture/main/screenshots/downloading.png" width="49%" alt="McLecture download queue view">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Working Stack
 
-**Research:** `Python` · `PyTorch` · `JAX/Flax` · `MuJoCo` · `RoboPianist` · `pandas` · `scikit-learn`  
-**Engineering:** `TypeScript` · `React` · `Vite` · `Chrome Extensions` · `Vitest` · `Playwright` · `SQL`  
-**Interests:** `model-based AI` · `planning` · `embodied agents` · `applied NLP` · `open-source research tooling`
+| Research | Engineering | Current interests |
+| --- | --- | --- |
+| Python · PyTorch · JAX/Flax · MuJoCo · RoboPianist | TypeScript · React · Vite · Chrome Extensions · Vitest · Playwright | model-based AI · planning · embodied agents · applied NLP · open-source research tooling |
 
-## Open-Source Direction
+## Open Source Direction
 
-I am trying to make more of my work usable outside my own machine: research repos with clear entrypoints, small tools that solve specific friction, and writeups that expose the assumptions behind the result.
+Small, runnable things with clear entrypoints. Research repos with enough structure to survive outside my laptop. Tools that remove one annoying step from a real workflow.
 
 ## Elsewhere
 
-For papers, figures, case studies, CV, and the fuller portfolio:  
-**[portfolio.enyihou.me](https://portfolio.enyihou.me)**
+For papers, figures, case studies, CV, and the fuller portfolio: **[portfolio.enyihou.me](https://portfolio.enyihou.me)**.
