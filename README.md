@@ -1,37 +1,54 @@
+<p align="right">
+  <img src="https://portfolio.enyihou.me/assets/profile/en-yi-hou-portrait.png" width="210" alt="Portrait of En Yi Hou">
+</p>
+
 # En Yi Hou
 
-**Machine learning & reinforcement learning researcher**  
-McGill CS graduate · incoming graduate student in Advanced Computing
+**Machine learning and reinforcement learning researcher**<br>McGill CS graduate · incoming graduate student in Advanced Computing
 
-I study model-based reinforcement learning, world models, and robot learning, with an interest in agents that learn predictive structure rather than only reacting locally.
+I work on model-based reinforcement learning, world models, and robot learning. I like agents that do more than autocomplete reality: systems that learn internal models, predict consequences, and decide when action is worth its cost.
 
-[Portfolio](https://portfolio.enyihou.me) · [LinkedIn](https://www.linkedin.com/in/enyi-hou/) · [Email](mailto:enyi.hou@gmail.com)
+[Portfolio](https://portfolio.enyihou.me) · [CV](https://portfolio.enyihou.me/cv/en-yi-hou-cv.pdf) · [LinkedIn](https://www.linkedin.com/in/enyi-hou/) · [Email](mailto:enyi.hou@gmail.com)
+
+<br clear="right">
 
 ---
 
-## Focus
+## Current Lens
 
-- Model-based reinforcement learning and world-model agents
-- Robot learning, intervention policies, and cost-aware decision-making
-- Reproducible ML experiments, research tooling, and applied TypeScript products
+`model-based RL` · `world models` · `robot learning` · `intervention policies` · `reproducible ML`
+
+My current research sits near embodied control and cost-aware decision-making: when should a teacher intervene, and when is the intervention itself too expensive?
 
 ## Selected Work
 
-| Project | Signal |
-|---|---|
-| [RoboPianist Cost-Aware Intervention](https://github.com/EnYiHou/robopianist-cost-aware-intervention) | Research pipeline for deciding when teacher intervention is worth its cost. Includes a paper, reproducible scripts, benchmark construction, model training, and evaluation over 14,464 proxy-error rows. |
-| [McLecture](https://github.com/EnYiHou/mcgill-lecture-downloader) | Chrome MV3 extension for downloading McGill lecture recordings. Built with TypeScript, React, Vite, ESLint, Vitest, and a Chrome Web Store listing. |
+### [Cost-Aware Teacher-Side Intervention in RoboPianist](https://github.com/EnYiHou/robopianist-cost-aware-intervention)
 
-## Current Direction
+<sub>Research project · Python · PyTorch · MuJoCo · RoboPianist</sub>
 
-I am especially interested in world models for agents: systems that build useful internal predictions of environment dynamics, costs, and future consequences. My current work sits near model-based RL, robot learning, and decision-making under intervention cost.
+A reproducible benchmark and modeling pipeline for deciding when teacher intervention is worth paying for in RoboPianist.
 
-## Technical Stack
+- Built a 14,464-row Human-Like Proxy Error benchmark from curated checkpoints.
+- Compared learned intervention models against budgeted and cost-aware baselines.
+- Includes paper source/PDF, figures, and end-to-end scripts from dataset construction to evaluation.
 
-`Python` · `PyTorch` · `JAX/Flax` · `MuJoCo` · `RoboPianist` · `pandas` · `scikit-learn`  
-`TypeScript` · `React` · `Vite` · `Chrome Extensions` · `Vitest` · `ESLint`
+[Paper](https://github.com/EnYiHou/robopianist-cost-aware-intervention/blob/main/report.pdf) · [Code](https://github.com/EnYiHou/robopianist-cost-aware-intervention) · [Figures](https://github.com/EnYiHou/robopianist-cost-aware-intervention/tree/main/figures)
 
-## Research & Portfolio
+### [McLecture](https://github.com/EnYiHou/mcgill-lecture-downloader)
 
-For papers, figures, case studies, and a fuller academic profile, visit:  
-**[portfolio.enyihou.me](https://portfolio.enyihou.me)**
+<sub>Product engineering · TypeScript · React · Vite · Chrome MV3</sub>
+
+A Chrome Web Store extension for downloading McGill myCourses lecture recordings.
+
+- Built the extension UI, capture flow, local storage path, FFmpeg/WASM remuxing, and production build pipeline.
+- Maintained with TypeScript, ESLint, Vitest, Vite, and Web Store packaging.
+
+[Chrome Web Store](https://chromewebstore.google.com/detail/mclecture/ipnhkfogmlokecmpgjhdkkibomgbjmlb) · [Code](https://github.com/EnYiHou/mcgill-lecture-downloader)
+
+## Toolkit
+
+**Research:** `Python` · `PyTorch` · `JAX/Flax` · `MuJoCo` · `RoboPianist` · `pandas` · `scikit-learn`<br>**Engineering:** `TypeScript` · `React` · `Vite` · `Chrome Extensions` · `Vitest` · `ESLint` · `SQL`
+
+## Elsewhere
+
+For papers, figures, case studies, CV, and the fuller portfolio:<br>**[portfolio.enyihou.me](https://portfolio.enyihou.me)**
