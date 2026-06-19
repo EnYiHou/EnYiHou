@@ -1,6 +1,6 @@
 # En Yi Hou
 
-<img align="right" src="https://portfolio.enyihou.me/assets/profile/en-yi-hou-portrait.png" width="180" alt="Portrait of En Yi Hou">
+<img align="right" src="./assets/en-yi-hou-portrait.jpg" width="180" alt="Portrait of En Yi Hou">
 
 **Machine learning and reinforcement learning researcher**<br>McGill CS graduate · incoming graduate student in Advanced Computing
 
