@@ -43,19 +43,6 @@ The full project gallery lives on my portfolio — papers, figures, case studies
   <strong><a href="https://portfolio.enyihou.me/#work">Check out my work →</a></strong>
 </p>
 
-## Stack
-
-<p align="center">
-  <strong>Research</strong><br>
-  <img alt="Python" src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white">
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img alt="JAX" src="https://img.shields.io/badge/JAX-111111?style=for-the-badge&logo=jax&logoColor=white">
-  <img alt="MuJoCo" src="https://img.shields.io/badge/MuJoCo-111111?style=for-the-badge">
-</p>
-
-<p align="center">
-  <strong>Building</strong><br>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white">
   <img alt="Vite" src="https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite&logoColor=white">
   <img alt="Chrome MV3" src="https://img.shields.io/badge/Chrome%20MV3-111111?style=for-the-badge&logo=googlechrome&logoColor=white">
