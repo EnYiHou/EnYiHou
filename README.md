@@ -14,7 +14,7 @@
   <a href="https://portfolio.enyihou.me"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="https://portfolio.enyihou.me/#work"><img alt="Work" src="https://img.shields.io/badge/Work-0F766E?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://portfolio.enyihou.me/cv/en-yi-hou-cv.pdf"><img alt="CV" src="https://img.shields.io/badge/CV-334155?style=for-the-badge&logo=readthedocs&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/enyi-hou/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://linkedin.com/in/enyihou"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 <p align="center">
@@ -26,7 +26,14 @@
 
 <p align="center">
   I like agents that build internal models of the world, plan inside them, and notice when action is worth its cost.<br>
-  Also music, painting, and tiny tools that quietly become real projects.
+  Outside the lab: guitar, piano, djembe, painting, cats, and music for its own sake.
+</p>
+
+<p align="center">
+  say hi:
+  <a href="mailto:enyi.hou@gmail.com">email</a> ·
+  <a href="https://www.instagram.com/who._.ne/">instagram</a> ·
+  <a href="https://portfolio.enyihou.me">painting</a>
 </p>
 
 <p align="center">
