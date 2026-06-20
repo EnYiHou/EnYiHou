@@ -11,18 +11,10 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio.enyihou.me">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
-  <a href="https://portfolio.enyihou.me/#work">
-    <img alt="Work" src="https://img.shields.io/badge/Work-0F766E?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://portfolio.enyihou.me/cv/en-yi-hou-cv.pdf">
-    <img alt="CV" src="https://img.shields.io/badge/CV-334155?style=for-the-badge&logo=readthedocs&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/enyi-hou/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+  <a href="https://portfolio.enyihou.me"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://portfolio.enyihou.me/#work"><img alt="Work" src="https://img.shields.io/badge/Work-0F766E?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://portfolio.enyihou.me/cv/en-yi-hou-cv.pdf"><img alt="CV" src="https://img.shields.io/badge/CV-334155?style=for-the-badge&logo=readthedocs&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/enyi-hou/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 <p align="center">
@@ -38,9 +30,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio.enyihou.me/#work">
-    <img alt="Explore the work" src="https://img.shields.io/badge/explore%20the%20work-%E2%86%92-22C55E?style=for-the-badge&logo=github&logoColor=white&labelColor=166534">
-  </a>
+  <a href="https://portfolio.enyihou.me/#work"><img alt="Explore the work" src="https://img.shields.io/badge/explore%20the%20work-%E2%86%92-22C55E?style=for-the-badge&logo=github&logoColor=white&labelColor=166534"></a>
 </p>
 
 <p align="center">
