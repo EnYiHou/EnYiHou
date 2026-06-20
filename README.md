@@ -42,8 +42,3 @@ The full project gallery lives on my portfolio — papers, figures, case studies
 <p align="center">
   <strong><a href="https://portfolio.enyihou.me/#work">Check out my work →</a></strong>
 </p>
-
-  <img alt="React" src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white">
-  <img alt="Vite" src="https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite&logoColor=white">
-  <img alt="Chrome MV3" src="https://img.shields.io/badge/Chrome%20MV3-111111?style=for-the-badge&logo=googlechrome&logoColor=white">
-</p>
