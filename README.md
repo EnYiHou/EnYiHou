@@ -29,16 +29,28 @@
   <code>robot learning</code>
 </p>
 
+## What Did I Do?
 
-I like agents that learn internal models of the world, reason with them, and know when action is worth its cost.
-Most of my work sits around model-based AI, embodied decision-making, and research code that other people can actually run.
-
-
-## Work
-
-The full project gallery lives on my portfolio — papers, figures, case studies, shipped tools, and the occasional thing that started as "just a small script."
-
+The full project gallery lives on my portfolio! 
 
 <p align="center">
-  <strong><a href="https://portfolio.enyihou.me/#work">Check out my work →</a></strong>
+  <strong><a href="https://portfolio.enyihou.me/#work">Check out my works →</a></strong>
 </p>
+
+
+## What Do I LOVE?
+
+I'm a cat lover ~
+I have a great passion for music : guitar, piano, djambe, anything!
+I love classical, pop musics, but I have a deep love for PURE Music!
+If you love painting, go check out my instagram <link> or my portfolio <link>
+
+<p align="center">
+  <strong><a href="https://portfolio.enyihou.me/#work">Check out my works →</a></strong>
+</p>
+
+
+I'm very social, hit me up and say Hi! 
+
+How to reach me : 
+insta, discord, and so on. 
