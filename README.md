@@ -4,15 +4,21 @@
 
 <h1 align="center">👋 Hi there, I'm En Yi Hou ~</h1>
 
+
 <p align="center">
-  <strong>McGill CS graduate · incoming graduate student at Tsinghua University</strong><br>
-  Thinking about world models, model-based RL, and predictive representations.<br>
-  Occasionally building a little bit of everything (game dev, web dev, plugins, blablabla)
+
+  <img src="./assets/tiny-cat.gif" alt="tiny cat" width="36">
+
 </p>
 
 <p align="center">
-  <a href="https://portfolio.enyihou.me"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="https://portfolio.enyihou.me/#work"><img alt="Work" src="https://img.shields.io/badge/Work-0F766E?style=for-the-badge&logo=github&logoColor=white"></a>
+  <strong>McGill CS graduate · incoming graduate student in Advanced Computing at Tsinghua University</strong><br>
+  Thinking about world models, model-based RL, and predictive representations.<br>
+  Occasionally building a little bit of everything (game dev, web dev, plugins, and other useful little tools)
+</p>
+
+<p align="center">
+  <a href="https://portfolio.enyihou.me"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="https://portfolio.enyihou.me/cv/en-yi-hou-cv.pdf"><img alt="CV" src="https://img.shields.io/badge/CV-334155?style=for-the-badge&logo=readthedocs&logoColor=white"></a>
   <a href="https://linkedin.com/in/enyihou"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
@@ -26,7 +32,7 @@
 
 <p align="center">
   I like agents that build internal models of the world, plan inside them, and notice when action is worth its cost.<br>
-  Outside of academics, I'm a huge fan of guitar, piano, djembe, music, arts, and CATS. You can see my hobbies in my <a href="https://portfolio.enyihou.me">portfolio</a>.
+  Outside of academics, I'm a huge fan of guitar, piano, djembe, music, arts, and CATS. You can see my works and hobbies in my <a href="https://portfolio.enyihou.me">portfolio</a>.
 </p>
 
 <p align="center">
