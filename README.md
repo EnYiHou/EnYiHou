@@ -2,14 +2,8 @@
   <img src="./assets/intro-guitar.png" alt="Illustration of En Yi Hou playing guitar" width="170">
 </p>
 
-<h1 align="center">👋 Hi there, I'm En Yi Hou ~</h1>
+<h1 align="center">Hi there, I'm En Yi Hou ~</h1>
 
-
-<p align="center">
-
-  <img src="./assets/tiny-cat.gif" alt="tiny cat" width="36">
-
-</p>
 
 <p align="center">
   <strong>McGill CS graduate · incoming graduate student in Advanced Computing at Tsinghua University</strong><br>
@@ -30,13 +24,49 @@
   <img alt="robot learning" src="https://img.shields.io/badge/robot%20learning-334155?style=flat-square">
 </p>
 
+<br>
+<br>
+<br>
+
+
+
+
+<h2 align="center">Daily life of me ~</h2>
+
 <p align="center">
-  I like agents that build internal models of the world, plan inside them, and notice when action is worth its cost.<br>
-  Outside of academics, I'm a huge fan of guitar, piano, djembe, music, arts, and CATS. You can see my works and hobbies in my <a href="https://portfolio.enyihou.me">portfolio</a>.
+  <img src="./assets/fric_typing.gif" alt="frog typing" width="78" align="middle">
+  &nbsp;⟶&nbsp;
+  <img src="./assets/fric_breaks_computer.gif" alt="frog breaks computer" width="78" align="middle">
+  &nbsp;⟶&nbsp;
+  <img src="./assets/fric_burns.gif" alt="frog burning" width="78" align="middle">
+  &nbsp;⟶&nbsp;
+  <img src="./assets/fric_shy.gif" alt="shy frog" width="78" align="middle">
 </p>
+
+<p align="center">
+  <sub>
+    write code &nbsp;&nbsp;→&nbsp;&nbsp;
+    me debugging irl &nbsp;&nbsp;→&nbsp;&nbsp;
+    executing code &nbsp;&nbsp;→&nbsp;&nbsp;
+    pray it works
+  </sub>
+</p>
+
+
+<br>
+<br>
+<br>
+<br>
+
+
+
+
+
 
 <p align="center">
   I love meeting new friends! Come say hi:
   <a href="mailto:enyi.hou@gmail.com">email</a> ·
-  <a href="https://www.instagram.com/who._.ne/">instagram</a>·
+  <a href="https://www.instagram.com/who._.ne/">instagram</a>
+  <img src="./assets/fric_waves.gif" alt="tiny cat waving" width="60" align="middle">
 </p>
+
