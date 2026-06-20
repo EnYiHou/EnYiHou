@@ -1,14 +1,15 @@
-<h1 align="center">En Yi Hou</h1>
+<h1 align="center">👋 Hi There, I am En Yi Hou ~</h1>
 
 <p align="center">
-  <strong>McGill CS graduate · incoming graduate student at Tsinghua University</strong><br>
-  Thinking about world models, model-based RL, and predictive representations.<br>
-  Occasionally building browser thingies that got a little too real.
+  <strong>McGill CS graduate</strong><br>
+  <strong>Incoming graduate student at Tsinghua University</strong><br>
+  Thinking about AI stuff -- world models, model-based RL, and predictive representations.<br>
+  Occasionally building more useful thingies.
 </p>
 
 <p align="center">
   <a href="https://portfolio.enyihou.me">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
   <a href="https://portfolio.enyihou.me/#work">
     <img alt="Work" src="https://img.shields.io/badge/Work-111111?style=for-the-badge&logo=github&logoColor=white">
@@ -28,28 +29,15 @@
   <code>robot learning</code>
 </p>
 
-<p align="center">
-  <img src="./assets/world-model-banner.png" alt="Abstract world model, planning, and latent space banner" width="100%">
-</p>
 
 I like agents that learn internal models of the world, reason with them, and know when action is worth its cost.
 Most of my work sits around model-based AI, embodied decision-making, and research code that other people can actually run.
 
-## Currently
-
-- thinking about world models, predictive representations, and model-based RL
-- making research repos less cursed to run
-- building small tools when a workflow annoys me enough
 
 ## Work
 
 The full project gallery lives on my portfolio — papers, figures, case studies, shipped tools, and the occasional thing that started as "just a small script."
 
-<p align="center">
-  <a href="https://portfolio.enyihou.me/#work">
-    <img src="./assets/work-preview.png" alt="Selected work preview" width="100%">
-  </a>
-</p>
 
 <p align="center">
   <strong><a href="https://portfolio.enyihou.me/#work">Check out my work →</a></strong>
