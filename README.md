@@ -7,7 +7,7 @@
 <p align="center">
   <strong>McGill CS graduate · incoming graduate student at Tsinghua University</strong><br>
   Thinking about world models, model-based RL, and predictive representations.<br>
-  Occasionally building browser thingies that got a little too real.
+  Occasionally building a little bit of everything (game dev, web dev, plugins, blablabla)
 </p>
 
 <p align="center">
@@ -26,30 +26,11 @@
 
 <p align="center">
   I like agents that build internal models of the world, plan inside them, and notice when action is worth its cost.<br>
-  Outside the lab: guitar, piano, djembe, painting, cats, and music for its own sake.
+  Outside of academics, I'm a huge fan of guitar, piano, djembe, music, arts, and CATS. You can see my hobbies in my <a href="https://portfolio.enyihou.me">portfolio</a>.
 </p>
 
 <p align="center">
-  say hi:
+  I love meeting new friends! Come say hi:
   <a href="mailto:enyi.hou@gmail.com">email</a> ·
-  <a href="https://www.instagram.com/who._.ne/">instagram</a> ·
-  <a href="https://portfolio.enyihou.me">painting</a>
-</p>
-
-<p align="center">
-  <a href="https://portfolio.enyihou.me/#work"><img alt="Explore the work" src="https://img.shields.io/badge/explore%20the%20work-%E2%86%92-22C55E?style=for-the-badge&logo=github&logoColor=white&labelColor=166534"></a>
-</p>
-
-<p align="center">
-  <strong>Stack</strong><br>
-  <sub>research</sub><br>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img alt="JAX" src="https://img.shields.io/badge/JAX-6E40C9?style=for-the-badge">
-  <img alt="MuJoCo" src="https://img.shields.io/badge/MuJoCo-0F766E?style=for-the-badge">
-  <br>
-  <sub>building</sub><br>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=white">
-  <img alt="Chrome MV3" src="https://img.shields.io/badge/Chrome_MV3-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white">
+  <a href="https://www.instagram.com/who._.ne/">instagram</a>·
 </p>
