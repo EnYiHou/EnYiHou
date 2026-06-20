@@ -1,20 +1,28 @@
 <p align="center">
-  <img src="./assets/intro-guitar.png" alt="Illustration of En Yi Hou playing guitar" width="170">
+  <img src="./assets/intro-guitar.png" alt="Illustration of En Yi Hou playing guitar" width="185">
 </p>
 
 <h1 align="center">Hi there, I'm En Yi Hou ~</h1>
 
-
 <p align="center">
-  <strong>McGill CS graduate · incoming graduate student in Advanced Computing at Tsinghua University</strong><br>
-  Thinking about world models, model-based RL, and predictive representations.<br>
-  Occasionally building a little bit of everything (game dev, web dev, plugins, and other useful little tools)
+  <strong>McGill CS graduate · incoming graduate student in Advanced Computing at Tsinghua University</strong>
 </p>
 
 <p align="center">
-  <a href="https://portfolio.enyihou.me"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="https://portfolio.enyihou.me/cv/en-yi-hou-cv.pdf"><img alt="CV" src="https://img.shields.io/badge/CV-334155?style=for-the-badge&logo=readthedocs&logoColor=white"></a>
-  <a href="https://linkedin.com/in/enyihou"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  Thinking about world models, model-based RL, and predictive representations.<br>
+  Occasionally building a little bit of everything: game dev, web dev, plugins, and useful little tools.
+</p>
+
+<p align="center">
+  <a href="https://portfolio.enyihou.me">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white">
+  </a>
+  <a href="https://portfolio.enyihou.me/cv/en-yi-hou-cv.pdf">
+    <img alt="CV" src="https://img.shields.io/badge/CV-334155?style=for-the-badge&logo=readthedocs&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/enyihou">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
 
 <p align="center">
@@ -26,21 +34,17 @@
 
 <br>
 <br>
-<br>
-
-
-
 
 <h2 align="center">Daily life of me ~</h2>
 
 <p align="center">
-  <img src="./assets/fric_typing.gif" alt="frog typing" width="78" align="middle">
-  &nbsp;⟶&nbsp;
-  <img src="./assets/fric_breaks_computer.gif" alt="frog breaks computer" width="78" align="middle">
-  &nbsp;⟶&nbsp;
-  <img src="./assets/fric_burns.gif" alt="frog burning" width="78" align="middle">
-  &nbsp;⟶&nbsp;
-  <img src="./assets/fric_shy.gif" alt="shy frog" width="78" align="middle">
+  <img src="./assets/fric_typing.gif" alt="frog typing" width="82" align="middle">
+  &nbsp;&nbsp;⟶&nbsp;&nbsp;
+  <img src="./assets/fric_breaks_computer.gif" alt="frog breaks computer" width="82" align="middle">
+  &nbsp;&nbsp;⟶&nbsp;&nbsp;
+  <img src="./assets/fric_burns.gif" alt="frog burning" width="82" align="middle">
+  &nbsp;&nbsp;⟶&nbsp;&nbsp;
+  <img src="./assets/fric_shy.gif" alt="shy frog" width="82" align="middle">
 </p>
 
 <p align="center">
@@ -52,21 +56,29 @@
   </sub>
 </p>
 
-
 <br>
 <br>
 <br>
-<br>
-
-
-
-
-
 
 <p align="center">
-  I love meeting new friends! Come say hi:
-  <a href="mailto:enyi.hou@gmail.com">email</a> ·
-  <a href="https://www.instagram.com/who._.ne/">instagram</a>
-  <img src="./assets/fric_waves.gif" alt="tiny cat waving" width="60" align="middle">
+  <sub>─────────────────────── ✦ ───────────────────────</sub>
 </p>
 
+<p align="center">
+  <sub>
+    Thanks for wandering through my little corner of GitHub ✦<br>
+    I love meeting new friends! Come say hi:
+    <a href="mailto:enyi.hou@gmail.com">email</a> ·
+    <a href="https://www.instagram.com/who._.ne/">instagram</a>
+  </sub>
+</p>
+
+<p align="center">
+  <img src="./assets/fric_waves.gif" alt="tiny cat waving" width="88" align="middle">
+</p>
+
+<p align="center">
+  <sub>────────────────── ✦ tiny visitor log ✦ ───────────────────</sub>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=EnYiHou&color=8b5cf6&style=flat-square&label=visitors" alt="Profile views">
+</p>
