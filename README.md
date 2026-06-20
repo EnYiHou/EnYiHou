@@ -45,10 +45,10 @@
 
 <p align="center">
   <sub>
-    write code &nbsp;&nbsp;→&nbsp;&nbsp;
-    me debugging irl &nbsp;&nbsp;→&nbsp;&nbsp;
-    executing code &nbsp;&nbsp;→&nbsp;&nbsp;
-    pray it works
+    me write code &nbsp;&nbsp;→&nbsp;&nbsp;
+    me debug irl &nbsp;&nbsp;→&nbsp;&nbsp;
+    me run code &nbsp;&nbsp;→&nbsp;&nbsp;
+    me pray it works
   </sub>
 </p>
 
