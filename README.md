@@ -61,7 +61,7 @@
 <br>
 
 <p align="center">
-  <sub>───────────── ✦ ─────────────</sub>
+  <sub>────────── ✦ ──────────</sub>
 </p>
 
 <p align="center">
@@ -78,7 +78,7 @@
 </p>
 
 <p align="center">
-  <sub>────────── ✦ visitor log ✦ ──────────</sub>
+  <sub>─────── ✦ visitor log ✦ ───────</sub>
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=EnYiHou&color=8b5cf6&style=flat-square&label=visitors" alt="Profile views">
 </p>
